@@ -1,11 +1,10 @@
 {
-	"name": "react-multi-split-pane",
+	"name": "@ochernysh/react-multi-split-pane",
 	"description": "React multi split-pane component",
 	"main": "dist/index.js",
 	"source": "src/index.ts",
 	"files": [
-		"dist",
-		"!dist/**/*.map"
+		"dist"
 	],
 	"version": "0.3.3",
 	"repository": {
