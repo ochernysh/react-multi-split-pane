@@ -5,8 +5,9 @@
 		"strict": true,
 		"jsx": "react",
 		"outDir": "dist",
-		"sourceMap": true,
-		"declaration": true
+		"sourceMap": false,
+		"declaration": true,
+        "inlineSourceMap": false
 	},
 	"include": [
 		"src/**/*"
